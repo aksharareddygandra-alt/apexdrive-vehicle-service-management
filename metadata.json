@@ -1,0 +1,8 @@
+{
+  "name": "Vehicle Service Management System",
+  "description": "Full-stack automotive service center platform with customer vehicle management, service booking, 5-stage live tracking, printable billing, and admin operations dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
